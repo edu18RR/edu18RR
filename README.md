@@ -12,7 +12,7 @@ const edu18RR = {
   En proceso: [React, Node, Javascript y Git],
   techCommunities: {
                         Proximo developer: "Launch X",
-                        Pasos a seguir: "Carlo Gilmar", "Fernanda Ochoa", "Rodrigo Martínez " y "Midudev"
+                        Pasos a seguir: "Carlo Gilmar", "Fernanda Ochoa", "Rodrigo Martínez " y "Miguel Ángel Djurán(midudev)"
                       }
 }
 ```
