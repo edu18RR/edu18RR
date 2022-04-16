@@ -20,7 +20,7 @@ const edu18RR = {
 <h2 align="center">Puedes contactarme en: </h2>
 
 <p align="center">
-  <a href="https://www.youtube.com">
+  <a href="">
     <img align="center" src="https://github.com/edu18RR/EDU/blob/main/insta.jpg" alt="inst" height="30" width="30" /> 
     <img align="center" src="https://github.com/edu18RR/Eduardo-RR/blob/main/tw.jpg" alt="tw" height="30" width="30" /> 
   </a>
