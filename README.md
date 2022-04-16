@@ -5,7 +5,16 @@
 <h5 align="center">Developer en proceso por Launch X 
  <img align="center" src="https://github.com/edu18RR/Eduardo-RR/blob/main/cohete.png" alt="nave" height="30" width="40" /></h5>
 
-```
+```javascript
+const edu18RR = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, , Git Hub, Python],
+  En proceso: [React, Node, Javascript y Git],
+  techCommunities: {
+                        Proximo developer: "Launch X",
+                        Pasos a seguir: "Carlo Gilmar", "Fernanda Ochoa", "Rodrigo Martínez " y "Midudev"
+                      }
+}
 ```
 
 <h2 align="center">Puedes contactarme en: </h2>
