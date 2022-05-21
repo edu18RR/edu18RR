@@ -15,6 +15,8 @@ const edu18RR = {
                         Pasos a seguir: "Carlo Gilmar", "Fernanda Ochoa", "Rodrigo Martínez " y "Miguel Ángel Djurán(midudev)"
                       }
 }
+ 
+ DeveloperenProceso(edu18RR)
 ```
 
 <h2 align="center">Puedes contactarme en: </h2>
