@@ -8,7 +8,7 @@
 ```javascript
 const edu18RR = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, , Git Hub, Python],
+  code: [HTML, CSS, Python],
   En proceso: [React, Node, Javascript y Git],
   techCommunities: {
                         Proximo developer: "Launch X",
