@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Eduardo Rosas</h1>
-<h3 align="center"> Desarrollador frontend y backend</h3>
+<h3 align="center">Un apasionado desarrollador frontend</h3>
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=edu18rr&label=Profile%20views&color=0e75b6&style=flat" alt="edu18rr" /> </p> -
 
